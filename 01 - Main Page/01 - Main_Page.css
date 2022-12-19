@@ -5,6 +5,12 @@ body{
     
 }
 
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+
 .title{
     font-size: 30px;
 }
@@ -21,7 +27,6 @@ body{
 
 #tbl{
     margin-left:100px;
-
 }
 
 .txtgame{
