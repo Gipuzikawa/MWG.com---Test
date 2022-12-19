@@ -1,0 +1,30 @@
+/*The main page*/
+body{
+    font-family: sans-serif;
+    /* font-size:30px; */
+    
+}
+
+.title{
+    font-size: 30px;
+}
+
+.tHeader {
+
+    margin-left: 250px;
+
+}
+.div2048img{
+    margin-left: 100px;
+    image-resolution: 256;   
+}
+
+#tbl{
+    margin-left:100px;
+
+}
+
+.txtgame{
+    font-size: 20px;
+}
+
